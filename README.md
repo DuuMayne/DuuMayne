@@ -8,7 +8,7 @@ The tools here come from a career spent on both sides of the audit table; as an 
 
 ### Background
 
-**Internal Security, Vanta** — Four years on the internal security team, working closely with Product to build the Vanta compliance platform, implementing and maintaining compliance frameworks, and pushing the boundaries of how GRC can and should operate. Saw firsthand how a best-in-class GRC tool is designed, what customers actually need, and where the gaps still are.
+**Internal Security, Vanta** — Four years on the internal security team, working closely with Product to build the Vanta compliance platform, implementing and maintaining compliance frameworks, and pushing the boundaries of how GRC can and should operate to build and maintain trust. Saw firsthand how a best-in-class GRC tool is designed, what customers actually need, and where the gaps still are.
 
 **Sr Security Engineer, American Tire Distributors** — Built a Security Operations Center from the ground up for ATD. Infrastructure, detection engineering, incident response, the full build. Handed it off running.
 
