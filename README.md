@@ -2,17 +2,17 @@
 
 I build security, risk, and compliance systems that scale past the people who created them.
 
-The tools here come from a career spent on both sides of the audit table — as an assessor, as a security engineer, and as someone who helped build one of the platforms the industry runs on. The goal has always been the same: build it so well that it doesn't need you anymore, then go build the next thing.
+The tools here come from a career spent on both sides of the audit table; as an assessor, as a security engineer, and as someone who helped build one of the platforms the industry runs on. The goal has always been the same: build it so well that it doesn't need you anymore, then go build the next thing.
 
 [LinkedIn](https://www.linkedin.com/in/adamduman/) | CISSP | CCSP | CISA | CDPSE | QSA | AIGP
 
 ### Background
 
-**Internal Security, Vanta** — Four years on the internal security team, working closely with Product to build the Vanta compliance platform. Saw firsthand how a best-in-class GRC tool is designed, what customers actually need, and where the gaps still are.
+**Internal Security, Vanta** — Four years on the internal security team, working closely with Product to build the Vanta compliance platform, implementing and maintaining compliance frameworks, and pushing the boundaries of how GRC can and should operate. Saw firsthand how a best-in-class GRC tool is designed, what customers actually need, and where the gaps still are.
 
-**Sr Security Engineer** — Built a Security Operations Center from the ground up for a midsize enterprise. Infrastructure, detection engineering, incident response, the full build. Handed it off running.
+**Sr Security Engineer, American Tire Distributors** — Built a Security Operations Center from the ground up for ATD. Infrastructure, detection engineering, incident response, the full build. Handed it off running.
 
-**PCI-QSA, Verizon** — Assessor side, performing PCI DSS assessments. Learned what auditors actually look for and how evidence is evaluated — not just what the standard says, but what makes the difference between a clean assessment and a painful one.
+**PCI-QSA, Verizon** — Assessor/Consultant side, performing PCI DSS assessments and supporting PCI-DSS Implementation for some of the worlds biggest hospitality and oil/gas companies. Learned what auditors actually look for and how evidence is evaluated. Not just what the standard says, but what makes the difference between a clean assessment and a painful one.
 
 **Security Analyst, AEG** — Hands-on generalist security work at one of the largest live events and entertainment companies in the world. Operational security across a complex, distributed environment where the threat model changes with every event.
 
