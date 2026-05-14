@@ -56,19 +56,19 @@ Self-hosted access review tool with 51 SaaS connectors. Pulls user entitlements 
 
 ---
 
-**[PANOPTICON](https://github.com/DuuMayne/PANOPTICON)** — Proof > Posture
-
-Continuous security control monitoring. Evaluates critical controls across Okta, GitHub, and AWS on a schedule, producing deterministic pass/fail results with evidence snapshots and Slack alerts on drift. When an auditor asks "was this control in place all quarter?", the answer is a time-series — not a screenshot from last Tuesday. This is sill super early days, but the intent is clear.
-
-`Python` `FastAPI` `PostgreSQL` `Next.js` `Docker`
-
----
-
 **[PRISM](https://github.com/DuuMayne/PRISM)** — Predictive Risk Intelligence and Scoring Model
 
 Quantitative risk management with Monte Carlo simulation. Replaces 5x5 risk matrices with actual loss distributions, treatment comparison modeling, and decision-ready framing for leadership. Guided quantification means you answer plain-language questions — the math runs behind the scenes. 25 pre-built scenario templates from real-world risk patterns.
 
 `Next.js` `TypeScript` `SQLite` `Recharts`
+
+---
+
+**[PANOPTICON](https://github.com/DuuMayne/PANOPTICON)** — Proof > Posture
+
+Continuous security control monitoring. Evaluates critical controls across Okta, GitHub, and AWS on a schedule, producing deterministic pass/fail results with evidence snapshots and Slack alerts on drift. When an auditor asks "was this control in place all quarter?", the answer is a time-series — not a screenshot from last Tuesday. This is sill super early days, but the intent is clear.
+
+`Python` `FastAPI` `PostgreSQL` `Next.js` `Docker`
 
 ---
 
