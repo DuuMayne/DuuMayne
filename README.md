@@ -22,7 +22,7 @@ The tools here come from a career spent on both sides of the audit table; as an 
 
 ### What I'm Building
 
-These tools exist because I've spent years doing compliance work and know which parts are still unnecessarily manual. They're not trying to replace commercial platforms — they're practitioner-built solutions for teams that need something now, can't afford enterprise tooling yet, or want a reference implementation to learn from.
+These tools exist because I've spent years doing compliance work and know which parts are still unnecessarily manual. They're not trying to replace commercial platforms. They're practitioner-built solutions for teams that need something now, can't afford enterprise tooling yet, or want a reference implementation to learn from.
 
 Everything here is AI-assisted development. I design, spec, and direct the builds using [Claude Code](https://claude.ai/code). The domain knowledge is mine. The implementation is accelerated with AI. This is what GRC engineering looks like when practitioners can ship their own tooling.
 
